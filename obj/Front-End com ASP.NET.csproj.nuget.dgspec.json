@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaop\\OneDrive\\Documentos\\Estudo\\Programação\\Código\\C#\\Front-End com ASP.NET\\Front-End com ASP.NET.csproj": {}
+    "C:\\Users\\joaop\\Documents\\Programação\\SiteDeContatos\\Front-End com ASP.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaop\\OneDrive\\Documentos\\Estudo\\Programação\\Código\\C#\\Front-End com ASP.NET\\Front-End com ASP.NET.csproj": {
+    "C:\\Users\\joaop\\Documents\\Programação\\SiteDeContatos\\Front-End com ASP.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaop\\OneDrive\\Documentos\\Estudo\\Programação\\Código\\C#\\Front-End com ASP.NET\\Front-End com ASP.NET.csproj",
+        "projectUniqueName": "C:\\Users\\joaop\\Documents\\Programação\\SiteDeContatos\\Front-End com ASP.NET.csproj",
         "projectName": "Front-End com ASP.NET",
-        "projectPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Estudo\\Programação\\Código\\C#\\Front-End com ASP.NET\\Front-End com ASP.NET.csproj",
+        "projectPath": "C:\\Users\\joaop\\Documents\\Programação\\SiteDeContatos\\Front-End com ASP.NET.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaop\\OneDrive\\Documentos\\Estudo\\Programação\\Código\\C#\\Front-End com ASP.NET\\obj\\",
+        "outputPath": "C:\\Users\\joaop\\Documents\\Programação\\SiteDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config"
