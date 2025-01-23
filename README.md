@@ -3,18 +3,22 @@ A website that allows you to create a CRUD of different contacts.
 
 ## Main pages
 
-### 1. Home Page Contacts
+### 1. Main Page
+
+![Main Page site](./img/mainPageSite.png)
+
+### 2. Home Page Contacts
 
 ![Home Page](./img/HomeContatos.png)
 
-### 2. Edit Page
+### 3. Edit Page
 
 ![Edit Page](./img/editPage.png)
 
-### 3. Details Page
+### 4. Details Page
 
 ![Details Page](./img/detailsPage.png)
 
-### 4. Deletion Page
+### 5. Deletion Page
 
 ![Deletion Page](./img/delPage.png)
